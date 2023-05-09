@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: cdf5b99066bb53242bf9a9623ed8f857
+timeCreated: 1472029598
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Masks_0
+    21300002: Masks_1
+    21300004: Masks_2
+    21300006: Masks_3
+    21300008: Masks_4
+    21300010: Masks_5
+    21300012: Masks_6
+    21300014: Masks_7
+    21300016: Masks_8
+    21300018: Masks_9
+    21300020: Masks_10
+    21300022: Masks_11
+    21300024: Masks_12
+    21300026: Masks_13
+    21300028: Masks_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Masks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 475
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -237.5, y: 76}
+        - {x: -237.5, y: -20}
+        - {x: -147.5, y: -73}
+        - {x: -68.5, y: -76}
+        - {x: 217.5, y: -76}
+        - {x: 237.5, y: -60}
+        - {x: 237.5, y: 76}
+      - - {x: -80.5, y: -32}
+        - {x: -165.5, y: -2}
+        - {x: -217.5, y: -2}
+        - {x: 51.5, y: 24}
+    - name: Masks_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 940
+        width: 186
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86, y: 40}
+        - {x: -93, y: 29}
+        - {x: -93, y: -35}
+        - {x: -90, y: -40}
+        - {x: 91, y: -40}
+        - {x: 93, y: -39}
+        - {x: 93, y: 40}
+      - - {x: -37, y: -27}
+        - {x: -29, y: -20}
+        - {x: -38, y: -28}
+    - name: Masks_2
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 900
+        width: 265
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.5, y: 62}
+        - {x: -132.5, y: -16}
+        - {x: 15.5, y: -62}
+        - {x: 132.5, y: -62}
+        - {x: 132.5, y: 58}
+        - {x: 68.5, y: 62}
+      - - {x: -18.5, y: 0}
+        - {x: -121.5, y: 42}
+        - {x: 15.5, y: 21}
+        - {x: 119.5, y: -48}
+    - name: Masks_3
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 890
+        width: 78
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 67}
+        - {x: -38, y: 57}
+        - {x: -39, y: 50}
+        - {x: -39, y: -67}
+        - {x: 39, y: -67}
+        - {x: 39, y: 52}
+        - {x: 30, y: 67}
+      - - {x: -26, y: 25}
+        - {x: 20, y: 54}
+        - {x: 29, y: -56}
+        - {x: -20, y: -56}
+    - name: Masks_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 683
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -179.5, y: 79.5}
+        - {x: -316.5, y: 67.5}
+        - {x: -341.5, y: 35.5}
+        - {x: -341.5, y: -79.5}
+        - {x: 272.5, y: -79.5}
+        - {x: 341.5, y: -67.5}
+        - {x: 341.5, y: 30.5}
+        - {x: 292.5, y: 79.5}
+      - - {x: 255.5, y: 12.5}
+        - {x: 329.5, y: -44.5}
+        - {x: 330.5, y: -45.5}
+        - {x: 330.5, y: -44.5}
+        - {x: 321.5, y: -52.5}
+        - {x: 170.5, y: -14.5}
+        - {x: 48.5, y: -22.5}
+    - name: Masks_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 774
+        width: 164
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 49}
+        - {x: -68, y: 49}
+        - {x: -82, y: 33}
+        - {x: -82, y: -44}
+        - {x: -81, y: -49}
+        - {x: 17, y: -49}
+        - {x: 82, y: -33}
+        - {x: 82, y: -4}
+        - {x: 74, y: 24}
+      - - {x: -66, y: -32}
+        - {x: -48, y: 25}
+        - {x: 46, y: -5}
+        - {x: 7, y: -33}
+    - name: Masks_6
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 774
+        width: 145
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 45}
+        - {x: -72.5, y: 12}
+        - {x: -72.5, y: -45}
+        - {x: 72.5, y: -45}
+        - {x: 72.5, y: 15}
+        - {x: 71.5, y: 20}
+        - {x: 60.5, y: 45}
+      - - {x: -59.5, y: -27}
+        - {x: -38.5, y: 33}
+        - {x: 20.5, y: 36}
+        - {x: 60.5, y: -27}
+    - name: Masks_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 476
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126, y: 70.5}
+        - {x: -191, y: 62.5}
+        - {x: -224, y: 5.5}
+        - {x: -238, y: -24.5}
+        - {x: -238, y: -70.5}
+        - {x: 192, y: -70.5}
+        - {x: 238, y: -45.5}
+        - {x: 238, y: 70.5}
+      - - {x: -226, y: -59.5}
+        - {x: -28, y: 10.5}
+        - {x: 220, y: 6.5}
+        - {x: 14, y: -22.5}
+    - name: Masks_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 574
+        width: 256
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 65.5}
+        - {x: -128, y: 5.5}
+        - {x: -112, y: -29.5}
+        - {x: -17, y: -65.5}
+        - {x: 111, y: -65.5}
+        - {x: 128, y: -62.5}
+        - {x: 128, y: 9.5}
+        - {x: 103, y: 65.5}
+      - - {x: -24, y: -0.5}
+        - {x: 43, y: 48.5}
+        - {x: 101, y: 7.5}
+        - {x: 77, y: -51.5}
+    - name: Masks_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 592
+        width: 259
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.5, y: 46.5}
+        - {x: -111.5, y: 40.5}
+        - {x: -129.5, y: 14.5}
+        - {x: -129.5, y: -39.5}
+        - {x: -110.5, y: -46.5}
+        - {x: 129.5, y: -46.5}
+        - {x: 129.5, y: -10.5}
+        - {x: 120.5, y: 28.5}
+        - {x: 107.5, y: 46.5}
+      - - {x: -116.5, y: -26.5}
+        - {x: -93.5, y: 23.5}
+        - {x: 96.5, y: 16.5}
+        - {x: 100.5, y: -22.5}
+    - name: Masks_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 534
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 69}
+        - {x: -39, y: 38}
+        - {x: -153, y: 29}
+        - {x: -267, y: 29}
+        - {x: -267, y: -58}
+        - {x: -255, y: -69}
+        - {x: 65, y: -69}
+        - {x: 267, y: -42}
+        - {x: 267, y: 67}
+        - {x: 255, y: 69}
+      - - {x: -16, y: 9}
+        - {x: 249, y: 51}
+        - {x: 31, y: -26}
+        - {x: 27, y: -31}
+    - name: Masks_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 470
+        width: 328
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99, y: 47}
+        - {x: -161, y: 40}
+        - {x: -164, y: 23}
+        - {x: -164, y: -2}
+        - {x: -147, y: -23}
+        - {x: -88, y: -47}
+        - {x: 164, y: -47}
+        - {x: 164, y: 39}
+        - {x: 126, y: 47}
+      - - {x: -3, y: -23}
+        - {x: -152, y: 11}
+        - {x: 110, y: 29}
+        - {x: 148, y: -28}
+    - name: Masks_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 252
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 48}
+        - {x: -126, y: 48}
+        - {x: -126, y: -46}
+        - {x: -86, y: -48}
+        - {x: 124, y: -48}
+        - {x: 126, y: -43}
+        - {x: 126, y: 42}
+        - {x: 122, y: 44}
+      - - {x: -43, y: -29}
+        - {x: -107, y: 11}
+        - {x: 61, y: 17}
+        - {x: 106, y: -29}
+    - name: Masks_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 292
+        width: 274
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 58.5}
+        - {x: -129, y: 52.5}
+        - {x: -137, y: 10.5}
+        - {x: -137, y: -54.5}
+        - {x: -93, y: -58.5}
+        - {x: 137, y: -58.5}
+        - {x: 137, y: 53.5}
+        - {x: 129, y: 58.5}
+      - - {x: -110, y: -7.5}
+        - {x: -105, y: 31.5}
+        - {x: 55, y: 21.5}
+        - {x: 118, y: -44.5}
+    - name: Masks_14
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 320
+        width: 180
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86, y: 47}
+        - {x: -90, y: 23}
+        - {x: -90, y: -47}
+        - {x: 81, y: -47}
+        - {x: 90, y: -39}
+        - {x: 90, y: -11}
+        - {x: 66, y: 47}
+      - - {x: -66, y: 33}
+        - {x: -20, y: 27}
+        - {x: 39, y: 34}
+        - {x: 58, y: -34}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

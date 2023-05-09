@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 888f6e820b65e804791b03d83b8eea7a
+timeCreated: 1475031798
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Snake_0
+    21300002: Snake_1
+    21300004: Snake_2
+    21300006: Snake_3
+    21300008: Snake_4
+    21300010: Snake_5
+    21300012: Snake_6
+    21300014: Snake_7
+    21300016: Spikes
+    21300018: Trap_C
+    21300020: Trap_L
+    21300022: Trap_R
+    21300024: Snake_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Snake_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5628602, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.028816, y: 40}
+        - {x: -32.028816, y: 26}
+        - {x: -32.028816, y: -31}
+        - {x: -29.028816, y: -40}
+        - {x: 22.971184, y: -40}
+        - {x: 22.971184, y: 40}
+    - name: Snake_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.38296458, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.36283, y: 39}
+        - {x: -14.637169, y: 39}
+        - {x: -28.637169, y: 16}
+        - {x: -28.637169, y: -40}
+        - {x: 22.362831, y: -40}
+        - {x: 47.36283, y: -15}
+        - {x: 47.36283, y: 29}
+        - {x: 44.36283, y: 34}
+      - - {x: 23.362831, y: -36}
+        - {x: 25.362831, y: -38}
+        - {x: 28.362831, y: -40}
+        - {x: 34.36283, y: -40}
+        - {x: 34.36283, y: -32}
+        - {x: 31.362831, y: -26}
+        - {x: 27.362831, y: -26}
+        - {x: 24.362831, y: -27}
+      - - {x: -26.637169, y: -37}
+        - {x: -23.637169, y: -36}
+        - {x: -23.637169, y: -33}
+        - {x: -26.637169, y: -32}
+        - {x: -28.637169, y: -34}
+    - name: Snake_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 432
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 38}
+        - {x: -29, y: -40}
+        - {x: 23, y: -40}
+        - {x: 23, y: 38}
+    - name: Snake_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 26}
+        - {x: -25, y: -31}
+        - {x: -19, y: -40}
+        - {x: 14, y: -40}
+        - {x: 29, y: -16}
+        - {x: 29, y: 40}
+        - {x: -23, y: 40}
+    - name: Snake_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 432
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 40}
+        - {x: -24, y: 35}
+        - {x: -24, y: -40}
+        - {x: 23, y: -40}
+        - {x: 24, y: -22}
+        - {x: 24, y: 31}
+        - {x: 16, y: 40}
+    - name: Spikes
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 50.5}
+        - {x: 25.5, y: 1.5}
+        - {x: 25.5, y: -43.5}
+        - {x: 36.5, y: -50.5}
+        - {x: 63.5, y: -50.5}
+        - {x: 63.5, y: 21.5}
+        - {x: 57.5, y: 50.5}
+      - - {x: 9.5, y: 24.5}
+        - {x: 6.5, y: 20.5}
+        - {x: 2.5, y: -3.5}
+        - {x: 1.5, y: -12.5}
+        - {x: -7.5, y: 27.5}
+        - {x: -14.5, y: 42.5}
+        - {x: -39.5, y: 42.5}
+        - {x: -63.5, y: 22.5}
+        - {x: -63.5, y: -49.5}
+        - {x: 21.5, y: -49.5}
+        - {x: 25.5, y: -46.5}
+        - {x: 25.5, y: -2.5}
+        - {x: 18.5, y: 30.5}
+    - name: Trap_C
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 368
+        width: 172
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 24}
+        - {x: -83, y: 20}
+        - {x: -86, y: 3}
+        - {x: -86, y: -23}
+        - {x: 74, y: -23}
+        - {x: 86, y: -9}
+        - {x: 86, y: 24}
+    - name: Trap_L
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 295
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 27}
+        - {x: -21, y: 27}
+        - {x: -21, y: -20}
+        - {x: -15, y: -27}
+        - {x: 19, y: -27}
+        - {x: 21, y: -26}
+        - {x: 21, y: 24}
+    - name: Trap_R
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 295
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 27}
+        - {x: -21, y: 24}
+        - {x: -21, y: -27}
+        - {x: 17, y: -27}
+        - {x: 21, y: -22}
+        - {x: 21, y: 27}
+    - name: Snake_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 8
+        width: 173
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: 26.5}
+        - {x: -86.5, y: -25.5}
+        - {x: -84.5, y: -26.5}
+        - {x: 81.5, y: -26.5}
+        - {x: 86.5, y: -18.5}
+        - {x: 86.5, y: 26.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

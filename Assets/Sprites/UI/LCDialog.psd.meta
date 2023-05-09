@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 407816f5994f1164e99bc737ec5b1068
+timeCreated: 1471768696
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LCDialog_6
+    21300002: LCDialog_7
+    21300004: LCDialog_8
+    21300006: LCDialog_9
+    21300008: LCDialog_10
+    21300010: LCDialog_11
+    21300012: LCDialog_12
+    21300014: LCDialog_13
+    21300016: LCDialog_0
+    21300018: LCDialog_1
+    21300020: LCDialog_2
+    21300022: LCDialog_3
+    21300024: LCDialog_4
+    21300026: LCDialog_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LCDialog_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 252
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LCDialog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 1024
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: -100}
+        - {x: -233, y: 116}
+        - {x: -273, y: 195}
+        - {x: -276, y: 199}
+        - {x: -449, y: 199}
+        - {x: -462, y: 192}
+        - {x: -463, y: 190}
+        - {x: -463, y: 185}
+        - {x: -426, y: 141}
+        - {x: -411, y: 126}
+        - {x: -361, y: 67}
+        - {x: -141, y: -185}
+        - {x: -132, y: -196}
+        - {x: -125, y: -196}
+        - {x: -123, y: -195}
+        - {x: -105, y: -140}
+        - {x: -105, y: -132}
+      - - {x: -233, y: -129}
+        - {x: -245, y: -119}
+        - {x: -327, y: -56}
+        - {x: -395, y: -3}
+        - {x: -438, y: 32}
+        - {x: -449, y: 37}
+        - {x: -457, y: 37}
+        - {x: -466, y: 33}
+        - {x: -512, y: -48}
+        - {x: -512, y: -62}
+        - {x: -441, y: -92}
+        - {x: -375, y: -120}
+        - {x: -239, y: -179}
+        - {x: -209, y: -192}
+        - {x: -204, y: -192}
+        - {x: -203, y: -190}
+        - {x: -203, y: -176}
+        - {x: -207, y: -146}
+      - - {x: 485, y: -53}
+        - {x: 486, y: -51}
+        - {x: 486, y: -47}
+        - {x: 474, y: -26}
+        - {x: 461, y: -2}
+        - {x: 437, y: 40}
+        - {x: 425, y: 45}
+        - {x: 420, y: 45}
+        - {x: 334, y: -22}
+        - {x: 208, y: -117}
+        - {x: 194, y: -129}
+        - {x: 194, y: -134}
+        - {x: 230, y: -160}
+        - {x: 238, y: -160}
+        - {x: 249, y: -156}
+        - {x: 292, y: -136}
+        - {x: 347, y: -112}
+        - {x: 413, y: -85}
+      - - {x: 435, y: 195}
+        - {x: 435, y: 199}
+        - {x: 244, y: 199}
+        - {x: 242, y: 197}
+        - {x: 169, y: 56}
+        - {x: 116, y: -46}
+        - {x: 116, y: -60}
+        - {x: 117, y: -64}
+        - {x: 159, y: -112}
+        - {x: 164, y: -113}
+        - {x: 168, y: -113}
+        - {x: 175, y: -105}
+        - {x: 236, y: -35}
+        - {x: 431, y: 185}
+      - - {x: 17, y: 199}
+        - {x: 13, y: 194}
+        - {x: -13, y: 1}
+        - {x: -13, y: -25}
+        - {x: 28, y: -27}
+        - {x: 89, y: -27}
+        - {x: 90, y: -26}
+        - {x: 177, y: 194}
+        - {x: 178, y: 199}
+      - - {x: -193, y: 199}
+        - {x: -193, y: 181}
+        - {x: -118, y: -24}
+        - {x: -14, y: -24}
+        - {x: -14, y: 19}
+        - {x: -33, y: 194}
+        - {x: -34, y: 199}
+    - name: LCDialog_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 103}
+        - {x: -6, y: 103}
+        - {x: -97, y: 91}
+        - {x: -104, y: 29}
+        - {x: -104, y: -21}
+        - {x: -93, y: -33}
+        - {x: 57, y: -108}
+        - {x: 100, y: -108}
+        - {x: 101, y: -104}
+        - {x: 101, y: -54}
+        - {x: 72, y: 4}
+    - name: LCDialog_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 288
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: 19}
+        - {x: 93, y: 88}
+        - {x: 26, y: 103}
+        - {x: -30, y: 103}
+        - {x: -74, y: 5}
+        - {x: -101, y: -73}
+        - {x: -101, y: -105}
+        - {x: -93, y: -108}
+        - {x: -46, y: -108}
+        - {x: 12, y: -76}
+        - {x: 99, y: -30}
+        - {x: 104, y: -18}
+    - name: LCDialog_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 288
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 108}
+        - {x: -90, y: 108}
+        - {x: -117, y: 84}
+        - {x: -130, y: 14}
+        - {x: -130, y: -38}
+        - {x: -101, y: -55}
+        - {x: -71, y: -59}
+        - {x: -44, y: -102}
+        - {x: -16, y: -108}
+        - {x: 102, y: -108}
+        - {x: 107, y: -94}
+        - {x: 107, y: -81}
+        - {x: 103, y: -79}
+        - {x: 92, y: 16}
+        - {x: 49, y: 87}
+    - name: LCDialog_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 288
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129, y: 10}
+        - {x: 117, y: 94}
+        - {x: 86, y: 108}
+        - {x: -33, y: 108}
+        - {x: -99, y: 22}
+        - {x: -90, y: -29}
+        - {x: -108, y: -74}
+        - {x: -108, y: -91}
+        - {x: -95, y: -108}
+        - {x: -77, y: -108}
+        - {x: -16, y: -83}
+        - {x: 11, y: -106}
+        - {x: 96, y: -63}
+        - {x: 129, y: -30}
+    - name: LCDialog_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 288
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 75}
+        - {x: 105, y: 81}
+        - {x: 7, y: 151}
+        - {x: -3, y: 151}
+        - {x: -8, y: 150}
+        - {x: -43, y: 97}
+        - {x: -107, y: 81}
+        - {x: -107, y: 58}
+        - {x: -70, y: -59}
+        - {x: -26, y: -149}
+        - {x: -9, y: -178}
+        - {x: 29, y: -178}
+        - {x: 73, y: -59}
+        - {x: 68, y: -4}
+        - {x: 106, y: 55}
+    - name: LCDialog_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 216
+        width: 288
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131, y: 43}
+        - {x: 131, y: 93}
+        - {x: 124, y: 111}
+        - {x: 55, y: 134}
+        - {x: 42, y: 170}
+        - {x: 22, y: 179}
+        - {x: -23, y: 179}
+        - {x: -38, y: 168}
+        - {x: -61, y: 123}
+        - {x: -103, y: 123}
+        - {x: -134, y: 103}
+        - {x: -134, y: 42}
+        - {x: -100, y: -4}
+        - {x: -98, y: -69}
+        - {x: -89, y: -82}
+        - {x: -50, y: -90}
+        - {x: -27, y: -149}
+        - {x: -10, y: -178}
+        - {x: 32, y: -178}
+        - {x: 62, y: -89}
+        - {x: 101, y: -82}
+        - {x: 102, y: -19}
+    - name: LCDialog_8
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 137
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: 75}
+        - {x: -68.5, y: 65}
+        - {x: -68.5, y: -75}
+        - {x: 61.5, y: -75}
+        - {x: 68.5, y: -74}
+        - {x: 68.5, y: 18}
+        - {x: 39.5, y: 75}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

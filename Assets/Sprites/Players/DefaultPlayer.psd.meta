@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: e881470fb829e1548a9b0e850b55b535
+timeCreated: 1468806587
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Black_Thief_0
+    21300002: Black_Thief_1
+    21300004: Black_Thief_2
+    21300006: Black_Thief_3
+    21300008: Black_Thief_4
+    21300010: Black_Thief_5
+    21300012: Black_Thief_6
+    21300014: Black_Thief_7
+    21300016: Black_Thief_8
+    21300018: Black_Thief_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Black_Thief_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 407
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 34}
+        - {x: -30, y: 11}
+        - {x: -30, y: -24}
+        - {x: -23, y: -33}
+        - {x: 21, y: -33}
+        - {x: 27, y: -31}
+        - {x: 29, y: -31}
+        - {x: 29, y: 24}
+        - {x: 24, y: 34}
+    - name: Black_Thief_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 407
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 42}
+        - {x: -31, y: 16}
+        - {x: -31, y: -24}
+        - {x: -29, y: -27}
+        - {x: -25, y: -28}
+        - {x: 33, y: -28}
+        - {x: 33, y: 24}
+        - {x: 11, y: 42}
+    - name: Black_Thief_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 302
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 36}
+        - {x: -30, y: 18}
+        - {x: -30, y: -37}
+        - {x: 29, y: -37}
+        - {x: 31, y: -16}
+        - {x: 31, y: 36}
+    - name: Black_Thief_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 302
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -30, y: 16}
+        - {x: -30, y: -34}
+        - {x: 29, y: -34}
+        - {x: 31, y: -32}
+        - {x: 31, y: 11}
+        - {x: 21, y: 30}
+    - name: Black_Thief_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 197
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 39}
+        - {x: -29, y: 33}
+        - {x: -29, y: -30}
+        - {x: 9, y: -30}
+        - {x: 32, y: -22}
+        - {x: 32, y: 18}
+        - {x: 19, y: 39}
+    - name: Black_Thief_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 197
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 39}
+        - {x: -13, y: 39}
+        - {x: -30, y: 10}
+        - {x: -30, y: -18}
+        - {x: -27, y: -30}
+        - {x: 33, y: -30}
+        - {x: 33, y: 12}
+        - {x: 28, y: 32}
+    - name: Black_Thief_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 197
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 39}
+        - {x: -7, y: 39}
+        - {x: -22, y: 22}
+        - {x: -28, y: 11}
+        - {x: -28, y: -24}
+        - {x: 5, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -28}
+        - {x: 32, y: 19}
+        - {x: 16, y: 35}
+    - name: Black_Thief_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 92
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 34}
+        - {x: -27, y: 15}
+        - {x: -27, y: -21}
+        - {x: -26, y: -25}
+        - {x: -10, y: -35}
+        - {x: 30, y: -35}
+        - {x: 33, y: -29}
+        - {x: 33, y: 8}
+        - {x: 18, y: 34}
+    - name: Black_Thief_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 43
+        width: 106
+        height: 97
+      alignment: 9
+      pivot: {x: 0.44596288, y: 0.32481596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.727936, y: 14.492851}
+        - {x: 44.727936, y: 58.49285}
+        - {x: 42.727936, y: 65.49285}
+        - {x: -10.272064, y: 65.49285}
+        - {x: -19.272064, y: 55.49285}
+        - {x: -17.272064, y: 49.49285}
+        - {x: -11.272064, y: 47.49285}
+        - {x: -5.272064, y: 44.49285}
+        - {x: -42.272064, y: 58.49285}
+        - {x: -46.272064, y: 47.49285}
+        - {x: -47.272064, y: 35.49285}
+        - {x: -47.272064, y: -6.5071487}
+        - {x: -28.272064, y: -31.507149}
+        - {x: 28.727936, y: -31.507149}
+        - {x: 30.727936, y: -29.507149}
+        - {x: 32.727936, y: -5.5071487}
+      - - {x: 36.727936, y: 22.492851}
+        - {x: 31.727936, y: 18.492851}
+        - {x: 30.727936, y: 15.492851}
+        - {x: 30.727936, y: 3.4928513}
+        - {x: 36.727936, y: 0.49285126}
+        - {x: 58.727936, y: 0.49285126}
+        - {x: 58.727936, y: 8.492851}
+        - {x: 46.727936, y: 22.492851}
+    - name: Black_Thief_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 46
+        width: 122
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5362764, y: 0.24973637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.57428, y: 49.53322}
+        - {x: 9.57428, y: 56.53322}
+        - {x: -63.42572, y: 56.53322}
+        - {x: -65.42572, y: 55.53322}
+        - {x: -65.42572, y: 3.5332184}
+        - {x: -47.42572, y: -2.4667816}
+        - {x: -46.42572, y: 3.5332184}
+        - {x: -48.42572, y: 9.533218}
+        - {x: -27.42572, y: 33.53322}
+        - {x: -46.42572, y: 1.5332184}
+        - {x: -45.42572, y: -1.4667816}
+        - {x: -40.42572, y: -3.4667816}
+        - {x: -28.42572, y: -29.466782}
+        - {x: -27.42572, y: -31.466782}
+        - {x: 31.57428, y: -31.466782}
+      - - {x: 32.57428, y: 14.533218}
+        - {x: 31.57428, y: 11.533218}
+        - {x: 31.57428, y: 4.5332184}
+        - {x: 33.57428, y: 2.5332184}
+        - {x: 36.57428, y: 3.5332184}
+        - {x: 36.57428, y: 12.533218}
+        - {x: 35.57428, y: 14.533218}
+      - - {x: 38.57428, y: 44.53322}
+        - {x: 34.57428, y: 44.53322}
+        - {x: 29.57428, y: 34.53322}
+        - {x: 29.57428, y: 21.533218}
+        - {x: 30.57428, y: 18.533218}
+        - {x: 47.57428, y: 9.533218}
+        - {x: 56.57428, y: 9.533218}
+        - {x: 56.57428, y: 25.533218}
+        - {x: 50.57428, y: 39.53322}
+      - - {x: 22.57428, y: 46.53322}
+        - {x: 24.57428, y: 44.53322}
+        - {x: 27.57428, y: 45.53322}
+        - {x: 27.57428, y: 48.53322}
+        - {x: 25.57428, y: 50.53322}
+        - {x: 22.57428, y: 49.53322}
+      - - {x: -10.42572, y: 66.53322}
+        - {x: -25.42572, y: 56.53322}
+        - {x: -25.42572, y: 50.53322}
+        - {x: -8.42572, y: 45.53322}
+        - {x: 0.5742798, y: 45.53322}
+        - {x: 4.57428, y: 46.53322}
+        - {x: 6.57428, y: 51.53322}
+        - {x: 6.57428, y: 63.53322}
+        - {x: 2.5742798, y: 66.53322}
+      - - {x: -27.42572, y: 63.53322}
+        - {x: -23.42572, y: 58.53322}
+        - {x: -20.42572, y: 59.53322}
+        - {x: -20.42572, y: 62.53322}
+        - {x: -24.42572, y: 66.53322}
+        - {x: -26.42572, y: 66.53322}
+      - - {x: -30.42572, y: 78.53322}
+        - {x: -28.42572, y: 76.53322}
+        - {x: -23.42572, y: 76.53322}
+        - {x: -7.42572, y: 73.53322}
+        - {x: 13.57428, y: 60.53322}
+        - {x: 37.57428, y: 60.53322}
+        - {x: 37.57428, y: 70.53322}
+        - {x: 33.57428, y: 87.53322}
+        - {x: 28.57428, y: 94.53322}
+        - {x: -18.42572, y: 94.53322}
+        - {x: -30.42572, y: 91.53322}
+      - - {x: -55.42572, y: 81.53322}
+        - {x: -58.42572, y: 77.53322}
+        - {x: -59.42572, y: 73.53322}
+        - {x: -58.42572, y: 70.53322}
+        - {x: -33.42572, y: 70.53322}
+        - {x: -33.42572, y: 79.53322}
+        - {x: -39.42572, y: 81.53322}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 796690634a768ad47a57728f11d58c4e
+timeCreated: 1474529970
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Traps_0
+    21300002: Traps_1
+    21300004: Traps_2
+    21300006: Traps_3
+    21300008: Traps_4
+    21300010: Traps_5
+    21300012: Traps_6
+    21300014: Traps_7
+    21300016: Traps_8
+    21300018: Traps_9
+    21300020: Traps_10
+    21300022: Traps_14
+    21300024: Traps_15
+    21300026: Traps_16
+    21300028: Traps_17
+    21300030: Traps_18
+    21300032: Traps_19
+    21300034: Traps_20
+    21300036: Traps_21
+    21300038: Traps_24
+    21300040: Traps_25
+    21300042: Traps_26
+    21300044: Traps_27
+    21300046: Traps_28
+    21300048: Traps_29
+    21300050: Traps_30
+    21300052: Traps_11
+    21300054: Traps_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Traps_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24.5}
+        - {x: -20, y: 22.5}
+        - {x: -23, y: -1.5}
+        - {x: -23, y: -25.5}
+        - {x: -21, y: -26.5}
+        - {x: 22, y: -26.5}
+        - {x: 23, y: -15.5}
+        - {x: 23, y: 26.5}
+        - {x: 2, y: 26.5}
+    - name: Traps_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 212
+        width: 137
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.5, y: 22}
+        - {x: -68.5, y: -22}
+        - {x: 63.5, y: -22}
+        - {x: 68.5, y: -16}
+        - {x: 68.5, y: 22}
+    - name: Traps_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 203
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 25.5}
+        - {x: 0.5, y: 26.5}
+        - {x: -22.5, y: 26.5}
+        - {x: -22.5, y: -19.5}
+        - {x: -16.5, y: -26.5}
+        - {x: 19.5, y: -26.5}
+        - {x: 22.5, y: -24.5}
+        - {x: 22.5, y: 0.5}
+        - {x: 20.5, y: 21.5}
+    - name: Traps_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 138
+        width: 173
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: 26.5}
+        - {x: -86.5, y: -7.5}
+        - {x: -85.5, y: -19.5}
+        - {x: -81.5, y: -26.5}
+        - {x: 80.5, y: -26.5}
+        - {x: 86.5, y: -16.5}
+        - {x: 86.5, y: 26.5}
+    - name: Traps_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 50.5}
+        - {x: 25.5, y: 1.5}
+        - {x: 25.5, y: -43.5}
+        - {x: 36.5, y: -50.5}
+        - {x: 63.5, y: -50.5}
+        - {x: 63.5, y: 21.5}
+        - {x: 57.5, y: 50.5}
+      - - {x: 9.5, y: 24.5}
+        - {x: 6.5, y: 20.5}
+        - {x: 2.5, y: -3.5}
+        - {x: 1.5, y: -12.5}
+        - {x: -7.5, y: 27.5}
+        - {x: -14.5, y: 42.5}
+        - {x: -39.5, y: 42.5}
+        - {x: -63.5, y: 22.5}
+        - {x: -63.5, y: -49.5}
+        - {x: 21.5, y: -49.5}
+        - {x: 25.5, y: -46.5}
+        - {x: 25.5, y: -2.5}
+        - {x: 18.5, y: 30.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: cc60db0923182204ba2070d5e36da889
+timeCreated: 1474615099
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spike_01
+    21300002: Spike_02
+    21300004: Spike_03
+    21300006: SwingBlade
+    21300008: Drop01
+    21300010: Drop02
+    21300012: Drop03
+    21300014: Drop04
+    21300016: Bomb
+    21300018: Fire01
+    21300020: Fire02
+    21300022: Dragon01
+    21300024: Dragon02
+    21300026: Spike00
+    21300028: Zombie01
+    21300030: Zombie02
+    21300032: Dart
+    21300034: RBlade
+    21300036: Gun01
+    21300038: Gun02
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Spike_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 444
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 32}
+        - {x: -17.5, y: 30}
+        - {x: -17.5, y: 1}
+        - {x: -15.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 32}
+    - name: Spike_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 48}
+        - {x: -13.5, y: 37}
+        - {x: -17.5, y: 27}
+        - {x: -17.5, y: 6}
+        - {x: -9.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 17.5, y: 4}
+        - {x: 17.5, y: 38}
+        - {x: 10.5, y: 48}
+    - name: Spike_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 35
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 28}
+        - {x: -17.5, y: 7}
+        - {x: -11.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 48}
+        - {x: 13.5, y: 68}
+        - {x: -4.5, y: 68}
+        - {x: -9.5, y: 57}
+    - name: SwingBlade
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 376
+        width: 101
+        height: 136
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 0}
+        - {x: -14.5, y: 0}
+        - {x: -50.5, y: -84}
+        - {x: -50.5, y: -105}
+        - {x: -35.5, y: -130}
+        - {x: -17.5, y: -135}
+        - {x: -12.5, y: -136}
+        - {x: 24.5, y: -136}
+        - {x: 42.5, y: -132}
+        - {x: 50.5, y: -110}
+        - {x: 50.5, y: -62}
+    - name: Drop01
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 430
+        width: 82
+        height: 76
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 0}
+        - {x: -41, y: -3}
+        - {x: -41, y: -22}
+        - {x: -32, y: -43}
+        - {x: -17, y: -76}
+        - {x: 18, y: -76}
+        - {x: 22, y: -75}
+        - {x: 41, y: -24}
+        - {x: 41, y: 0}
+    - name: Drop02
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 295
+        width: 82
+        height: 98
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 0}
+        - {x: -41, y: -6}
+        - {x: -41, y: -42}
+        - {x: -18, y: -98}
+        - {x: 18, y: -98}
+        - {x: 41, y: -41}
+        - {x: 41, y: 0}
+    - name: Drop03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 82
+        height: 126
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 0}
+        - {x: -41, y: -58}
+        - {x: -17, y: -126}
+        - {x: 19, y: -126}
+        - {x: 37, y: -61}
+        - {x: 41, y: -46}
+        - {x: 41, y: 0}
+    - name: Drop04
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 356
+        width: 81
+        height: 154
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 0}
+        - {x: -40.5, y: -98}
+        - {x: -23.5, y: -154}
+        - {x: 40.5, y: -154}
+        - {x: 40.5, y: 0}
+    - name: Bomb
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 302
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 30.5}
+        - {x: -22.5, y: 19.5}
+        - {x: -35.5, y: 4.5}
+        - {x: -35.5, y: -30.5}
+        - {x: 35.5, y: -30.5}
+        - {x: 35.5, y: 28.5}
+        - {x: 33.5, y: 30.5}
+    - name: Fire01
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 426
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 40}
+        - {x: -25, y: 27}
+        - {x: -27, y: 28}
+        - {x: -40, y: 36}
+        - {x: -46, y: 35}
+        - {x: -46, y: 4}
+        - {x: -44, y: -18}
+        - {x: -18, y: -37}
+        - {x: -13, y: -40}
+        - {x: 7, y: -40}
+        - {x: 20, y: -28}
+        - {x: 46, y: 16}
+        - {x: 46, y: 40}
+      - - {x: 7, y: 35}
+        - {x: 5, y: 33}
+        - {x: 5, y: 27}
+        - {x: 6, y: 23}
+        - {x: 15, y: 23}
+        - {x: 15, y: 34}
+        - {x: 11, y: 35}
+    - name: Fire02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 151
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: -64.5}
+        - {x: 11.5, y: -70.5}
+        - {x: -1.5, y: -70.5}
+        - {x: -2.5, y: -73.5}
+        - {x: -2.5, y: -80.5}
+        - {x: 5.5, y: -87.5}
+        - {x: 8.5, y: -88.5}
+        - {x: 33.5, y: -88.5}
+        - {x: 39.5, y: -84.5}
+        - {x: 39.5, y: -72.5}
+        - {x: 28.5, y: -64.5}
+      - - {x: -9.5, y: -63.5}
+        - {x: -11.5, y: -63.5}
+        - {x: -14.5, y: -66.5}
+        - {x: -14.5, y: -70.5}
+        - {x: -12.5, y: -72.5}
+        - {x: -8.5, y: -72.5}
+        - {x: -5.5, y: -69.5}
+        - {x: -5.5, y: -65.5}
+      - - {x: 1.5, y: -59.5}
+        - {x: -1.5, y: -64.5}
+        - {x: -1.5, y: -66.5}
+        - {x: 0.5, y: -70.5}
+        - {x: 7.5, y: -70.5}
+        - {x: 10.5, y: -69.5}
+        - {x: 10.5, y: -61.5}
+        - {x: 6.5, y: -59.5}
+      - - {x: 13.5, y: -58.5}
+        - {x: 14.5, y: -61.5}
+        - {x: 24.5, y: -61.5}
+        - {x: 24.5, y: -55.5}
+        - {x: 21.5, y: -49.5}
+        - {x: 16.5, y: -49.5}
+        - {x: 13.5, y: -50.5}
+      - - {x: 19.5, y: -42.5}
+        - {x: 25.5, y: -50.5}
+        - {x: 39.5, y: -50.5}
+        - {x: 50.5, y: -45.5}
+        - {x: 50.5, y: -38.5}
+        - {x: 48.5, y: -35.5}
+        - {x: 22.5, y: -35.5}
+        - {x: 19.5, y: -36.5}
+      - - {x: 11.5, y: 52.5}
+        - {x: -1.5, y: 47.5}
+        - {x: -19.5, y: 56.5}
+        - {x: -30.5, y: 56.5}
+        - {x: -44.5, y: 48.5}
+        - {x: -51.5, y: 43.5}
+        - {x: -55.5, y: 39.5}
+        - {x: -55.5, y: 29.5}
+        - {x: -53.5, y: 21.5}
+        - {x: -3.5, y: -31.5}
+        - {x: 21.5, y: -31.5}
+        - {x: 42.5, y: -24.5}
+        - {x: 50.5, y: -3.5}
+        - {x: 58.5, y: 22.5}
+        - {x: 58.5, y: 38.5}
+      - - {x: -33.5, y: -3.5}
+        - {x: -41.5, y: -3.5}
+        - {x: -44.5, y: -4.5}
+        - {x: -44.5, y: -13.5}
+        - {x: -36.5, y: -21.5}
+        - {x: -27.5, y: -21.5}
+        - {x: -25.5, y: -20.5}
+        - {x: -25.5, y: -16.5}
+        - {x: -27.5, y: -11.5}
+      - - {x: 50.5, y: 12.5}
+        - {x: 46.5, y: 10.5}
+        - {x: 46.5, y: -2.5}
+        - {x: 49.5, y: -7.5}
+        - {x: 54.5, y: -7.5}
+        - {x: 58.5, y: -5.5}
+        - {x: 58.5, y: 12.5}
+      - - {x: 66.5, y: 50.5}
+        - {x: 66.5, y: 48.5}
+        - {x: 68.5, y: 46.5}
+        - {x: 75.5, y: 47.5}
+        - {x: 75.5, y: 57.5}
+        - {x: 74.5, y: 57.5}
+      - - {x: -75.5, y: 69.5}
+        - {x: -65.5, y: 55.5}
+        - {x: -55.5, y: 55.5}
+        - {x: -29.5, y: 70.5}
+        - {x: -29.5, y: 75.5}
+        - {x: -30.5, y: 78.5}
+        - {x: -43.5, y: 88.5}
+        - {x: -71.5, y: 88.5}
+        - {x: -75.5, y: 86.5}
+      - - {x: 25.5, y: 73.5}
+        - {x: 19.5, y: 67.5}
+        - {x: 19.5, y: 62.5}
+        - {x: 24.5, y: 58.5}
+        - {x: 32.5, y: 58.5}
+        - {x: 40.5, y: 61.5}
+        - {x: 40.5, y: 68.5}
+        - {x: 32.5, y: 73.5}
+    - name: Dragon01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 159
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 64}
+        - {x: -62.5, y: 64}
+        - {x: -71.5, y: 43}
+        - {x: -71.5, y: -39}
+        - {x: -68.5, y: -45}
+        - {x: -22.5, y: -45}
+        - {x: 32.5, y: -28}
+        - {x: 79.5, y: 2}
+        - {x: 79.5, y: 40}
+        - {x: 73.5, y: 59}
+      - - {x: -0.5, y: 60}
+        - {x: 2.5, y: 61}
+        - {x: 2.5, y: 64}
+        - {x: -0.5, y: 65}
+        - {x: -2.5, y: 63}
+      - - {x: -3.5, y: 69}
+        - {x: -2.5, y: 66}
+        - {x: 1.5, y: 66}
+        - {x: 3.5, y: 68}
+        - {x: 2.5, y: 71}
+        - {x: -1.5, y: 71}
+    - name: Dragon02
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 159
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 44}
+        - {x: 12.5, y: 71}
+        - {x: -13.5, y: 71}
+        - {x: -36.5, y: 45}
+        - {x: -69.5, y: 4}
+        - {x: -71.5, y: -6}
+        - {x: -71.5, y: -13}
+        - {x: -66.5, y: -18}
+        - {x: -60.5, y: -20}
+        - {x: -41.5, y: -17}
+        - {x: -31.5, y: -58}
+        - {x: 8.5, y: -58}
+        - {x: 79.5, y: -10}
+        - {x: 79.5, y: 30}
+        - {x: 76.5, y: 29}
+      - - {x: -25.5, y: -19}
+        - {x: -22.5, y: -20}
+        - {x: -19.5, y: -18}
+        - {x: -20.5, y: -15}
+        - {x: -24.5, y: -14}
+        - {x: -26.5, y: -16}
+    - name: Spike00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 37
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Zombie01
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 142
+        width: 97
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5121292, y: 0.42562217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.67653, y: -15.029129}
+        - {x: -42.67653, y: -23.029129}
+        - {x: -35.67653, y: -37.02913}
+        - {x: 47.32347, y: -37.02913}
+        - {x: 47.32347, y: 13.970871}
+        - {x: 34.32347, y: 48.97087}
+        - {x: 30.323471, y: 49.97087}
+        - {x: -26.676529, y: 49.97087}
+        - {x: -49.67653, y: 22.970871}
+    - name: Zombie02
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 148
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 38.5}
+        - {x: -27.5, y: 37.5}
+        - {x: -39.5, y: 17.5}
+        - {x: -39.5, y: 12.5}
+        - {x: -43.5, y: 4.5}
+        - {x: -43.5, y: -25.5}
+        - {x: -36.5, y: -37.5}
+        - {x: 38.5, y: -37.5}
+        - {x: 41.5, y: -30.5}
+        - {x: 41.5, y: 26.5}
+        - {x: 33.5, y: 38.5}
+    - name: Dart
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 144
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 16}
+        - {x: -72, y: 3}
+        - {x: -72, y: -9}
+        - {x: 11, y: -16}
+        - {x: 59, y: -16}
+        - {x: 72, y: -5}
+        - {x: 72, y: 5}
+        - {x: 56, y: 16}
+    - name: RBlade
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 243
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 42.5}
+        - {x: -42.5, y: 33.5}
+        - {x: -42.5, y: -14.5}
+        - {x: -31.5, y: -42.5}
+        - {x: 13.5, y: -42.5}
+        - {x: 42.5, y: -28.5}
+        - {x: 42.5, y: 14.5}
+        - {x: 30.5, y: 42.5}
+    - name: Gun01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 307
+        width: 108
+        height: 89
+      alignment: 9
+      pivot: {x: 0.11940935, y: 0.6632766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.10379, y: -15.031616}
+        - {x: 78.10379, y: 1.9683838}
+        - {x: 65.10379, y: 6.968384}
+        - {x: 39.10379, y: 29.968384}
+        - {x: 20.10379, y: 29.968384}
+        - {x: 13.10379, y: 28.968384}
+        - {x: -9.89621, y: 4.968384}
+        - {x: -9.89621, y: -30.031616}
+        - {x: 45.10379, y: -59.031616}
+        - {x: 78.10379, y: -59.031616}
+        - {x: 93.10379, y: -30.031616}
+        - {x: 95.10379, y: -22.031616}
+        - {x: 95.10379, y: -15.031616}
+      - - {x: 88.10379, y: -40.031616}
+        - {x: 87.10379, y: -43.031616}
+        - {x: 87.10379, y: -46.031616}
+        - {x: 88.10379, y: -47.031616}
+        - {x: 95.10379, y: -47.031616}
+        - {x: 95.10379, y: -40.031616}
+      - - {x: 81.10379, y: -44.031616}
+        - {x: 84.10379, y: -43.031616}
+        - {x: 84.10379, y: -40.031616}
+        - {x: 81.10379, y: -39.031616}
+        - {x: 79.10379, y: -41.031616}
+      - - {x: -9.89621, y: -34.031616}
+        - {x: -12.89621, y: -36.031616}
+        - {x: -12.89621, y: -41.031616}
+        - {x: -11.89621, y: -42.031616}
+        - {x: -4.8962097, y: -42.031616}
+        - {x: -2.8962097, y: -38.031616}
+        - {x: -2.8962097, y: -35.031616}
+        - {x: -3.8962097, y: -34.031616}
+      - - {x: -12.89621, y: -25.031616}
+        - {x: -11.89621, y: -26.031616}
+        - {x: -8.89621, y: -25.031616}
+        - {x: -5.8962097, y: -12.031616}
+        - {x: -6.8962097, y: -10.031616}
+        - {x: -8.89621, y: -10.031616}
+        - {x: -12.89621, y: -13.031616}
+      - - {x: 93.10379, y: 0.9683838}
+        - {x: 90.10379, y: -2.0316162}
+        - {x: 90.10379, y: -6.031616}
+        - {x: 94.10379, y: -9.031616}
+        - {x: 95.10379, y: -9.031616}
+        - {x: 95.10379, y: 0.9683838}
+    - name: Gun02
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 210
+        width: 107
+        height: 93
+      alignment: 9
+      pivot: {x: 0.057648562, y: 0.6562543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.168396, y: 31.968353}
+        - {x: -6.168396, y: -16.031647}
+        - {x: -2.168396, y: -27.031647}
+        - {x: 55.831604, y: -59.031647}
+        - {x: 62.831604, y: -61.031647}
+        - {x: 95.831604, y: -61.031647}
+        - {x: 100.831604, y: -60.031647}
+        - {x: 100.831604, y: 31.968353}
+      - - {x: -6.168396, y: -39.031647}
+        - {x: -5.168396, y: -39.031647}
+        - {x: -2.168396, y: -36.031647}
+        - {x: -3.168396, y: -33.031647}
+        - {x: -6.168396, y: -33.031647}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

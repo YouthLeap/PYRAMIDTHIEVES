@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: a2f8aa8337475634e81e4468fa341035
+timeCreated: 1472454512
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Run01
+    21300002: Run02
+    21300004: Resting01
+    21300006: Resting02
+    21300008: Jump01
+    21300010: Jump02
+    21300012: Jump03
+    21300014: Slide
+    21300016: Black_Thief_8
+    21300018: Black_Thief_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Run01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 407
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 25}
+        - {x: 23, y: 38}
+        - {x: -24, y: 38}
+        - {x: -36, y: 34}
+        - {x: -36, y: -9}
+        - {x: -15, y: -33}
+        - {x: 18, y: -33}
+        - {x: 29, y: -20}
+        - {x: 29, y: 17}
+    - name: Run02
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 407
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 48}
+        - {x: -24, y: 48}
+        - {x: -36, y: 19}
+        - {x: -36, y: -7}
+        - {x: -24, y: -28}
+        - {x: 33, y: -28}
+        - {x: 33, y: 30}
+        - {x: 30, y: 37}
+    - name: Resting01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 302
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 16}
+        - {x: 23, y: 38}
+        - {x: 4, y: 38}
+        - {x: -23, y: 30}
+        - {x: -30, y: 15}
+        - {x: -30, y: -34}
+        - {x: 26, y: -34}
+        - {x: 38, y: -6}
+        - {x: 38, y: 2}
+    - name: Resting02
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 302
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -35}
+        - {x: 27, y: -35}
+        - {x: 38, y: -26}
+        - {x: 38, y: 21}
+        - {x: 28, y: 36}
+        - {x: 2, y: 36}
+        - {x: -29, y: 25}
+        - {x: -30, y: 15}
+    - name: Jump01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 197
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 45}
+        - {x: -24, y: 45}
+        - {x: -36, y: 10}
+        - {x: -36, y: -6}
+        - {x: -22, y: -30}
+        - {x: 31, y: -30}
+        - {x: 32, y: -24}
+        - {x: 32, y: 26}
+        - {x: 27, y: 34}
+    - name: Jump02
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 197
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 44}
+        - {x: -36, y: 12}
+        - {x: -36, y: -7}
+        - {x: -24, y: -30}
+        - {x: 31, y: -30}
+        - {x: 33, y: -29}
+        - {x: 33, y: 14}
+        - {x: 27, y: 44}
+    - name: Jump03
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 197
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 7}
+        - {x: -36, y: -9}
+        - {x: -29, y: -25}
+        - {x: -4, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 44}
+        - {x: -21, y: 44}
+        - {x: -24, y: 41}
+    - name: Slide
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 92
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 37}
+        - {x: -21, y: 31}
+        - {x: -27, y: 28}
+        - {x: -27, y: -29}
+        - {x: -12, y: -35}
+        - {x: 27, y: -35}
+        - {x: 38, y: -9}
+        - {x: 38, y: 3}
+        - {x: 24, y: 37}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

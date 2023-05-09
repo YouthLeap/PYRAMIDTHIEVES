@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: 0033134c8df67e342b91abd3b0f698a3
+timeCreated: 1463815466
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: icon_0
+    21300002: icon_1
+    21300004: icon_2
+    21300006: icon_3
+    21300008: icon_4
+    21300010: icon_5
+    21300012: icon_6
+    21300014: icon_7
+    21300016: icon_8
+    21300018: icon_9
+    21300020: icon_10
+    21300022: icon_11
+    21300024: icon_12
+    21300026: icon_13
+    21300028: icon_14
+    21300030: icon_15
+    21300032: icon_16
+    21300034: icon_17
+    21300036: icon_18
+    21300038: icon_19
+    21300040: icon_20
+    21300042: icon_21
+    21300044: icon_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: icon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 32}
+        - {x: -32, y: 23}
+        - {x: -32, y: -20}
+        - {x: -16, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      - - {x: -9, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -11}
+        - {x: -10, y: -12}
+        - {x: 9, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 8}
+        - {x: 7, y: 12}
+    - name: icon_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -13}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 2}
+        - {x: 31, y: 8}
+        - {x: 12, y: 32}
+        - {x: -17, y: 32}
+        - {x: -25, y: 30}
+      - - {x: -24, y: -25}
+        - {x: -23, y: -20}
+        - {x: -3, y: 11}
+        - {x: 9, y: -10}
+        - {x: 17, y: -6}
+        - {x: 17, y: -1}
+        - {x: 19, y: 2}
+        - {x: 18, y: 4}
+        - {x: 17, y: 2}
+        - {x: 20, y: -4}
+        - {x: 19, y: -8}
+        - {x: 5, y: -11}
+        - {x: 0, y: -11}
+        - {x: -4, y: -12}
+        - {x: -11, y: -18}
+        - {x: -15, y: -26}
+        - {x: -25, y: -26}
+    - name: icon_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 29}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 27}
+        - {x: 30, y: 29}
+    - name: icon_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 32}
+        - {x: -25, y: 9}
+        - {x: -25, y: -25}
+        - {x: -13, y: -30}
+        - {x: 21, y: -30}
+        - {x: 25, y: -24}
+        - {x: 25, y: 26}
+        - {x: 24, y: 32}
+    - name: icon_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 32}
+        - {x: -11, y: 32}
+        - {x: -15, y: 28}
+        - {x: -15, y: -29}
+        - {x: -12, y: -32}
+        - {x: 0, y: -32}
+        - {x: 26, y: -5}
+        - {x: 26, y: 2}
+    - name: icon_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -16, y: 22}
+        - {x: -24, y: 16}
+        - {x: -24, y: -11}
+        - {x: -18, y: -24}
+        - {x: 13, y: -24}
+        - {x: 24, y: -15}
+        - {x: 24, y: 13}
+        - {x: 13, y: 24}
+    - name: icon_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -15, y: 21}
+        - {x: -32, y: -11}
+        - {x: -32, y: -28}
+        - {x: -31, y: -30}
+        - {x: -24, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 12}
+        - {x: 15, y: 24}
+    - name: icon_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 17}
+        - {x: -22, y: -17}
+        - {x: 22, y: -17}
+        - {x: 22, y: 17}
+    - name: icon_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: icon_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 18}
+        - {x: -16, y: 18}
+        - {x: -32, y: 4}
+        - {x: -32, y: -5}
+        - {x: -15, y: -18}
+        - {x: 23, y: -18}
+        - {x: 32, y: -6}
+        - {x: 32, y: 10}
+    - name: icon_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23}
+        - {x: -32, y: -6}
+        - {x: -32, y: -31}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: -2}
+        - {x: 16, y: 23}
+    - name: icon_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 32}
+        - {x: -32, y: 25}
+        - {x: -32, y: -29}
+        - {x: -21, y: -32}
+        - {x: 23, y: -32}
+        - {x: 32, y: -20}
+        - {x: 32, y: 21}
+        - {x: 22, y: 32}
+    - name: icon_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 30}
+        - {x: -20, y: 30}
+        - {x: -31, y: 16}
+        - {x: -31, y: 2}
+        - {x: -25, y: -30}
+        - {x: 24, y: -30}
+        - {x: 31, y: -19}
+        - {x: 31, y: 18}
+        - {x: 22, y: 23}
+    - name: icon_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: icon_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 32}
+        - {x: -12, y: 28}
+        - {x: -27, y: 20}
+        - {x: -27, y: -18}
+        - {x: -14, y: -32}
+        - {x: 21, y: -32}
+        - {x: 26, y: -17}
+        - {x: 26, y: 27}
+        - {x: 12, y: 32}
+    - name: icon_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: icon_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 31}
+        - {x: -10, y: 24}
+        - {x: -32, y: -26}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -24}
+        - {x: 23, y: 9}
+        - {x: 6, y: 31}
+    - name: icon_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 7}
+        - {x: -22, y: 5}
+        - {x: -22, y: -5}
+        - {x: -20, y: -7}
+        - {x: 20, y: -7}
+        - {x: 22, y: -5}
+        - {x: 22, y: 5}
+        - {x: 20, y: 7}
+    - name: icon_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 22}
+        - {x: -22, y: 10}
+        - {x: -22, y: -9}
+        - {x: -16, y: -22}
+        - {x: 12, y: -22}
+        - {x: 22, y: -16}
+        - {x: 22, y: 13}
+        - {x: 8, y: 22}
+    - name: icon_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: icon_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: icon_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 25}
+        - {x: -14, y: 25}
+        - {x: -25, y: 18}
+        - {x: -25, y: -13}
+        - {x: -13, y: -25}
+        - {x: 17, y: -25}
+        - {x: 26, y: -17}
+        - {x: 26, y: 13}
+    - name: icon_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 26}
+        - {x: -31, y: 5}
+        - {x: -31, y: -11}
+        - {x: -10, y: -26}
+        - {x: 1, y: -26}
+        - {x: 31, y: 8}
+        - {x: 31, y: 15}
+        - {x: 23, y: 26}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

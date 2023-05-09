@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: aaafcf4dc7911994898634f8957c11ab
+timeCreated: 1476430731
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MainMenu_0
+    21300002: MainMenu_1
+    21300004: MainMenu_2
+    21300006: MainMenu_3
+    21300008: MainMenu_4
+    21300010: MainMenu_5
+    21300012: MainMenu_6
+    21300014: MainMenu_7
+    21300016: MainMenu_8
+    21300018: MainMenu_9
+    21300020: TextBG
+    21300022: MainMenu_10
+    21300024: SmallChest
+    21300026: SmallChestGrey
+    21300028: SmallStar
+    21300030: MainMenu_11
+    21300032: MainMenu_12
+    21300034: MainMenu_13
+    21300036: MainMenu_14
+    21300038: MainMenu_15
+    21300040: MainMenu_16
+    21300042: MainMenu_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MainMenu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 525
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: -147}
+        - {x: 85.5, y: -151}
+        - {x: 192.5, y: -151}
+        - {x: 198.5, y: -146}
+        - {x: 215.5, y: -88}
+        - {x: 252.5, y: -83}
+        - {x: 262.5, y: -72}
+        - {x: 262.5, y: -32}
+        - {x: 249.5, y: -11}
+        - {x: 224.5, y: 7}
+        - {x: 220.5, y: 29}
+        - {x: 223.5, y: 68}
+        - {x: 222.5, y: 97}
+        - {x: 187.5, y: 117}
+        - {x: 153.5, y: 120}
+        - {x: 132.5, y: 113}
+        - {x: 120.5, y: 102}
+        - {x: 48.5, y: 101}
+        - {x: 40.5, y: 115}
+        - {x: 51.5, y: 135}
+        - {x: 30.5, y: 151}
+        - {x: -12.5, y: 151}
+        - {x: -37.5, y: 141}
+        - {x: -75.5, y: 123}
+        - {x: -123.5, y: 124}
+        - {x: -133.5, y: 120}
+        - {x: -140.5, y: 91}
+        - {x: -152.5, y: 39}
+        - {x: -195.5, y: 45}
+        - {x: -205.5, y: 41}
+        - {x: -262.5, y: -54}
+        - {x: -262.5, y: -82}
+        - {x: -256.5, y: -86}
+        - {x: -217.5, y: -85}
+        - {x: -208.5, y: -71}
+        - {x: -189.5, y: -84}
+        - {x: -155.5, y: -121}
+        - {x: -146.5, y: -143}
+        - {x: -138.5, y: -150}
+        - {x: -134.5, y: -151}
+        - {x: 61.5, y: -151}
+    - name: MainMenu_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 499
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 35.5}
+        - {x: -33.5, y: 22.5}
+        - {x: -33.5, y: -6.5}
+        - {x: -16.5, y: -32.5}
+        - {x: 0.5, y: -35.5}
+        - {x: 21.5, y: -35.5}
+        - {x: 33.5, y: -17.5}
+        - {x: 33.5, y: 28.5}
+        - {x: 21.5, y: 35.5}
+    - name: MainMenu_2
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 910
+        width: 163
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.5, y: 57}
+        - {x: -81.5, y: -57}
+        - {x: 81.5, y: -57}
+        - {x: 81.5, y: 57}
+    - name: MainMenu_3
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 799
+        width: 147
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.5, y: 51.5}
+        - {x: -73.5, y: 51.5}
+        - {x: -73.5, y: -47.5}
+        - {x: -65.5, y: -51.5}
+        - {x: 73.5, y: -51.5}
+    - name: MainMenu_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 34}
+        - {x: -30.5, y: -20}
+        - {x: -6.5, y: -34}
+        - {x: 16.5, y: -34}
+        - {x: 30.5, y: -16}
+        - {x: 30.5, y: 34}
+    - name: MainMenu_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 655
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 31.5}
+        - {x: -30.5, y: -13.5}
+        - {x: -9.5, y: -31.5}
+        - {x: 8.5, y: -31.5}
+        - {x: 30.5, y: -17.5}
+        - {x: 30.5, y: 31.5}
+    - name: MainMenu_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 654
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -31}
+        - {x: 25, y: -31}
+        - {x: 28, y: -29}
+        - {x: 28, y: 24}
+        - {x: 25, y: 31}
+        - {x: -28, y: 31}
+        - {x: -28, y: -23}
+    - name: MainMenu_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 632
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -21.5}
+        - {x: -28, y: -42.5}
+        - {x: 41, y: -42.5}
+        - {x: 46, y: -40.5}
+        - {x: 46, y: 28.5}
+        - {x: 45, y: 32.5}
+        - {x: 33, y: 42.5}
+        - {x: -46, y: 42.5}
+    - name: MainMenu_8
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 616
+        width: 166
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 86.5}
+        - {x: -83, y: -54.5}
+        - {x: -83, y: -80.5}
+        - {x: -72, y: -85.5}
+        - {x: 61, y: -85.5}
+        - {x: 83, y: -84.5}
+        - {x: 83, y: -49.5}
+        - {x: 28, y: 86.5}
+      - - {x: 56, y: -8.5}
+        - {x: 54, y: -10.5}
+        - {x: 54, y: -13.5}
+        - {x: 57, y: -16.5}
+        - {x: 58, y: -16.5}
+        - {x: 61, y: -13.5}
+        - {x: 61, y: -11.5}
+        - {x: 58, y: -8.5}
+      - - {x: 32, y: 62.5}
+        - {x: 27, y: 62.5}
+        - {x: 27, y: 57.5}
+        - {x: 29, y: 56.5}
+        - {x: 32, y: 56.5}
+        - {x: 33, y: 58.5}
+        - {x: 33, y: 61.5}
+      - - {x: 24, y: 79.5}
+        - {x: 27, y: 80.5}
+        - {x: 27, y: 83.5}
+        - {x: 24, y: 84.5}
+        - {x: 22, y: 82.5}
+      - - {x: 27, y: 82.5}
+        - {x: 28, y: 79.5}
+        - {x: 31, y: 79.5}
+        - {x: 33, y: 81.5}
+        - {x: 32, y: 84.5}
+        - {x: 29, y: 84.5}
+    - name: MainMenu_9
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 749
+        width: 267
+        height: 275
+      alignment: 9
+      pivot: {x: 0.42057237, y: 0.52003795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 153.70715, y: 11.989563}
+        - {x: 147.70715, y: 33.989563}
+        - {x: 132.70715, y: 60.989563}
+        - {x: 120.70715, y: 77.98956}
+        - {x: 88.70715, y: 106.98956}
+        - {x: 71.70715, y: 120.98956}
+        - {x: 51.707153, y: 131.98956}
+        - {x: -36.292847, y: 131.98956}
+        - {x: -57.292847, y: 117.98956}
+        - {x: -86.29285, y: 92.98956}
+        - {x: -111.29285, y: 67.98956}
+        - {x: -112.29285, y: 62.989563}
+        - {x: -112.29285, y: -34.010437}
+        - {x: -110.29285, y: -45.010437}
+        - {x: -91.29285, y: -80.01044}
+        - {x: -86.29285, y: -89.01044}
+        - {x: -60.292847, y: -118.01044}
+        - {x: -30.292847, y: -138.01044}
+        - {x: -14.292847, y: -143.01044}
+        - {x: 72.70715, y: -143.01044}
+        - {x: 123.70715, y: -95.01044}
+        - {x: 142.70715, y: -62.010437}
+        - {x: 153.70715, y: -26.010437}
+    - name: TextBG
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 636
+        width: 186
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 0, z: 16, w: 0}
+      outline:
+      - - {x: -86, y: 28.5}
+        - {x: -91, y: 22.5}
+        - {x: -93, y: 19.5}
+        - {x: -93, y: -19.5}
+        - {x: -91, y: -22.5}
+        - {x: -87, y: -26.5}
+        - {x: -84, y: -28.5}
+        - {x: 84, y: -28.5}
+        - {x: 93, y: -24.5}
+        - {x: 93, y: 24.5}
+        - {x: 90, y: 28.5}
+    - name: MainMenu_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 19}
+        - {x: -18.5, y: 12}
+        - {x: -18.5, y: -11}
+        - {x: -10.5, y: -19}
+        - {x: 12.5, y: -19}
+        - {x: 18.5, y: -14}
+        - {x: 18.5, y: 13}
+        - {x: 17.5, y: 19}
+    - name: SmallChest
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 584
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SmallChestGrey
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 584
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SmallStar
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 538
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MainMenu_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 148
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: 109.5}
+        - {x: -66, y: 109.5}
+        - {x: -74, y: 100.5}
+        - {x: -74, y: -52.5}
+        - {x: -49, y: -81.5}
+        - {x: -26, y: -109.5}
+        - {x: 23, y: -109.5}
+        - {x: 39, y: -94.5}
+        - {x: 74, y: -52.5}
+        - {x: 74, y: 102.5}
+    - name: MainMenu_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 348
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 21}
+        - {x: -26, y: 70}
+        - {x: -35, y: 70}
+        - {x: -74, y: 46}
+        - {x: -74, y: -6}
+        - {x: -35, y: -70}
+        - {x: 74, y: -70}
+        - {x: 74, y: -57}
+        - {x: 57, y: 18}
+        - {x: 49, y: 27}
+        - {x: 43, y: 29}
+    - name: MainMenu_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 525
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MainMenu_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 638
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 37}
+        - {x: -30, y: 25}
+        - {x: -30, y: 22}
+        - {x: -22, y: 16}
+        - {x: -18, y: 12}
+        - {x: -23, y: 16}
+        - {x: -25, y: 16}
+        - {x: -30, y: 15}
+        - {x: -30, y: -25}
+        - {x: -23, y: -37}
+        - {x: 28, y: -37}
+        - {x: 30, y: -36}
+        - {x: 30, y: 26}
+        - {x: 29, y: 37}
+    - name: MainMenu_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 637
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 37}
+        - {x: -30, y: 25}
+        - {x: -30, y: 22}
+        - {x: -22, y: 16}
+        - {x: -18, y: 12}
+        - {x: -23, y: 16}
+        - {x: -25, y: 16}
+        - {x: -30, y: 15}
+        - {x: -30, y: -25}
+        - {x: -23, y: -37}
+        - {x: 28, y: -37}
+        - {x: 30, y: -36}
+        - {x: 30, y: 26}
+        - {x: 29, y: 37}
+    - name: MainMenu_16
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 668
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -40.5, y: 7.5}
+        - {x: -40.5, y: -24.5}
+        - {x: 40.5, y: -24.5}
+        - {x: 40.5, y: 2.5}
+        - {x: 18.5, y: 24.5}
+    - name: MainMenu_17
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 589
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24.5}
+        - {x: -40, y: 2.5}
+        - {x: -41, y: -0.5}
+        - {x: -41, y: -18.5}
+        - {x: -34, y: -24.5}
+        - {x: 38, y: -24.5}
+        - {x: 41, y: -21.5}
+        - {x: 41, y: 2.5}
+        - {x: 19, y: 24.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

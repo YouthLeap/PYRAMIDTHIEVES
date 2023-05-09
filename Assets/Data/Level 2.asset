@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29fbae21e06f1dd44b40a9a559ed81c4, type: 3}
+  m_Name: Level 2
+  m_EditorClassIdentifier: 
+  backgroundPath: Background/Level2/
+  backgrounds:
+  - {fileID: 21300000, guid: 049862a2e1169004cabf1409b26a1649, type: 3}
+  - {fileID: 21300000, guid: 5b183ddcd20e295469e0a440e1618aee, type: 3}
+  - {fileID: 21300000, guid: 2caea777e29fa044099aa19ad160d9c7, type: 3}
+  bricks:
+  - sprite: {fileID: 21300012, guid: 4aa962cf931b3dd4c8e6dd2601108afd, type: 3}
+    prefab: {fileID: 153780, guid: b45dfc7e8e0314a4aaae6aca23a6909e, type: 2}
+  - sprite: {fileID: 21300012, guid: 4aa962cf931b3dd4c8e6dd2601108afd, type: 3}
+    prefab: {fileID: 103690, guid: 21bda9b47c6ade94aa81a18dc72a31f3, type: 2}
+  - sprite: {fileID: 21300010, guid: 4aa962cf931b3dd4c8e6dd2601108afd, type: 3}
+    prefab: {fileID: 128582, guid: 1b06ad7496140f54db58ba7b62235ed0, type: 2}
+  - sprite: {fileID: 21300008, guid: 4aa962cf931b3dd4c8e6dd2601108afd, type: 3}
+    prefab: {fileID: 179284, guid: 17daf9e2f39c2dc49b58f2e25cb94efd, type: 2}
+  - sprite: {fileID: 21300014, guid: 4aa962cf931b3dd4c8e6dd2601108afd, type: 3}
+    prefab: {fileID: 179284, guid: d6adfccba0c8ac34299ec21c928c986d, type: 2}

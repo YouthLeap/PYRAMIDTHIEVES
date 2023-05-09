@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: d5c405372a7e3264cabed902f531e0cd
+timeCreated: 1474944211
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Treasure_0
+    21300002: Treasure_1
+    21300004: Treasure_2
+    21300006: Treasure_3
+    21300008: Treasure_4
+    21300010: WoodPlatform
+    21300012: Door01
+    21300014: Door02
+    21300016: Door03
+    21300018: Door04
+    21300020: Torch01
+    21300022: Torch02
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Treasure_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 418
+        width: 84
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 74}
+        - {x: -42, y: 57}
+        - {x: -42, y: 0}
+        - {x: 41, y: 0}
+        - {x: 42, y: 2}
+        - {x: 42, y: 73}
+        - {x: 32, y: 74}
+    - name: Treasure_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 418
+        width: 104
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 82}
+        - {x: -52, y: 10}
+        - {x: -45, y: 0}
+        - {x: 51, y: 0}
+        - {x: 52, y: 6}
+        - {x: 52, y: 82}
+    - name: Treasure_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 396
+        width: 158
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: 110}
+        - {x: -79, y: 4}
+        - {x: -63, y: 0}
+        - {x: 79, y: 0}
+        - {x: 79, y: 99}
+        - {x: 76, y: 110}
+      - - {x: 76, y: 21}
+        - {x: 78, y: 19}
+        - {x: 79, y: 19}
+        - {x: 79, y: 24}
+        - {x: 77, y: 24}
+    - name: Treasure_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 112
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 97}
+        - {x: -51, y: 86}
+        - {x: -56, y: 78}
+        - {x: -56, y: 18}
+        - {x: -46, y: 0}
+        - {x: 56, y: 0}
+        - {x: 56, y: 85}
+        - {x: 38, y: 97}
+    - name: Treasure_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 298
+        width: 92
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 102}
+        - {x: -38, y: 102}
+        - {x: -46, y: 101}
+        - {x: -46, y: 48}
+        - {x: -36, y: 0}
+        - {x: 45, y: 0}
+        - {x: 46, y: 13}
+        - {x: 46, y: 94}
+        - {x: 44, y: 97}
+    - name: WoodPlatform
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 148
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: 13}
+        - {x: -58.5, y: -10}
+        - {x: -56.5, y: -19}
+        - {x: 82.5, y: -19}
+        - {x: 90.5, y: -14}
+        - {x: 90.5, y: 13}
+    - name: Door01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -48}
+        - {x: 46, y: -48}
+        - {x: 46, y: 5}
+        - {x: 37, y: 51}
+        - {x: -46, y: 51}
+        - {x: -51, y: 29}
+      - - {x: -49, y: 25}
+        - {x: -50, y: 23}
+        - {x: -50, y: 20}
+        - {x: -48, y: 19}
+        - {x: -44, y: 19}
+        - {x: -43, y: 21}
+        - {x: -43, y: 24}
+        - {x: -45, y: 25}
+    - name: Door02
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 196
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 51}
+        - {x: -51, y: 36}
+        - {x: -51, y: -48}
+        - {x: 46, y: -48}
+        - {x: 46, y: -2}
+        - {x: 37, y: 51}
+      - - {x: -49, y: 25}
+        - {x: -50, y: 23}
+        - {x: -50, y: 20}
+        - {x: -48, y: 19}
+        - {x: -44, y: 19}
+        - {x: -43, y: 21}
+        - {x: -43, y: 24}
+        - {x: -45, y: 25}
+    - name: Door03
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 196
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 51}
+        - {x: -51, y: 36}
+        - {x: -51, y: -48}
+        - {x: 46, y: -48}
+        - {x: 46, y: -2}
+        - {x: 37, y: 51}
+      - - {x: -49, y: 25}
+        - {x: -50, y: 23}
+        - {x: -50, y: 20}
+        - {x: -48, y: 19}
+        - {x: -44, y: 19}
+        - {x: -43, y: 21}
+        - {x: -43, y: 24}
+        - {x: -45, y: 25}
+    - name: Door04
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 196
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 51}
+        - {x: -51, y: 36}
+        - {x: -51, y: -48}
+        - {x: 46, y: -48}
+        - {x: 46, y: -2}
+        - {x: 37, y: 51}
+      - - {x: -49, y: 25}
+        - {x: -50, y: 23}
+        - {x: -50, y: 20}
+        - {x: -48, y: 19}
+        - {x: -44, y: 19}
+        - {x: -43, y: 21}
+        - {x: -43, y: 24}
+        - {x: -45, y: 25}
+    - name: Torch01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 115
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 66}
+        - {x: -45.5, y: 63}
+        - {x: -57.5, y: 43}
+        - {x: -57.5, y: -39}
+        - {x: -45.5, y: -66}
+        - {x: 48.5, y: -66}
+        - {x: 57.5, y: -54}
+        - {x: 57.5, y: 40}
+        - {x: 47.5, y: 66}
+    - name: Torch02
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 64
+        width: 115
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 66}
+        - {x: -45.5, y: 63}
+        - {x: -57.5, y: 43}
+        - {x: -57.5, y: -39}
+        - {x: -45.5, y: -66}
+        - {x: 48.5, y: -66}
+        - {x: 57.5, y: -54}
+        - {x: 57.5, y: 40}
+        - {x: 47.5, y: 66}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
